@@ -8,27 +8,32 @@ End-to-end data analytics project analyzing customer shopping behavior using Pyt
 📂 Dataset
 customer_shopping_behavior.csv
 Contains customer demographics, purchase data, product categories, and subscription details.
+
 🛠️ Tools
 Python
 MySQL
 Power BI
 Jupyter Notebook
 Gamma (Presentation)
+
 ⚙️ Steps
 Data loading & cleaning (Python)
 EDA & visualization
 SQL queries for insights
 Power BI dashboard creation
 Report & PPT preparation
+
 📊 Dashboard
 Revenue & spending trends
 Category-wise performance
 Customer segmentation
 Subscription analysis
+
 🔍 Results
 Identified key customer segments
 Found top-performing categories
 Compared spending behavior (subscribed vs non-subscribed)
+
 ▶️ How to Run
 Run Customer_Behaviour_Analysis.ipynb
 Execute queries from Customer Behavior.sql in MySQL
